@@ -1,0 +1,90 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.rana{
+    color: orange;
+}
+.flower{
+    display: flex;
+}
+.fokinni{
+border-left: 5px solid;
+color: red;
+}
+.i-love-you{
+    text-decoration: none;
+    background-image: linear-gradient(salmon,green);
+    color: white;
+    font-size: 600;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.kaka{
+    height: 500px;
+    padding-right: 60px;
+}
+.i-am{
+    padding-left: 70px;
+    padding-right: 90px;
+}
+.ospita{
+    color: red;
+}
+.center{
+    text-align: center;
+}
+.khan{
+    padding-top: 80px;
+    display: flex;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.kaka-khan{
+    height: 200px;
+}
+.lamiya{
+
+ width: 40%;
+box-shadow: 10px 10px 40px gray;
+margin-left: 5%;
+padding-left: 20px;
+border-radius: 10px;
+background-color: bisque;
+text-align: initial;
+}
+.lumpa{
+    padding-top: 100px;
+}
+.tumpa{
+    padding-top: 200px;
+   
+}
+.kak{
+    height: 300px;
+   padding-left: 200px;
+}
+.lal-mia{
+    text-decoration: none;
+    background-image: linear-gradient(red,green);
+    color: white;
+    font-size: 600;
+    padding: 10px 60px;
+    border-radius: 5px;
+}
+.darun{
+    display: flex;
+}
+.jim{
+    padding-left: 200px;
+    padding-right: 60px;
+}
+.baby{
+    height: 400px;
+}
+.baba{
+    display: flex;
+}
+.ma{
+    padding-top: 200px;
+}
